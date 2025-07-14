@@ -1,1 +1,8 @@
-
+public class main{
+	public static void
+		main(string[] args) {
+			const myvar ="javascript is amazing";
+	console.log(myvar);
+	system.out.println(myvar);
+	}
+}
