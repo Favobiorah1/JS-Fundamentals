@@ -1,3 +1,4 @@
+
 #!/usr/bin/node
 
 const a = parseInt(process.argv[2]);
@@ -8,4 +9,5 @@ function add(a,b) {
 }
 
 console.log(add(a, b));
+
 
