@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #!/usr/bin/node
 
 const messages = [
@@ -10,6 +9,3 @@ const messages = [
 for (let i = 0; i < messages.length; i++) {
   console.log(messages[i]);
 }
-=======
-
->>>>>>> 2ea9154718b6c2f37dfb81abb3fe5091f02ff8af
