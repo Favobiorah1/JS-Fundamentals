@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class main{
 	public static void
 
@@ -9,3 +10,6 @@ if (!isNaN(num)) {
 } else {
   console.log('Not a number');
 }
+=======
+
+>>>>>>> 25ce1df71deca59c61cff534b646434579974a98
